@@ -1,0 +1,2 @@
+# binance-snart-chain
+BNB
